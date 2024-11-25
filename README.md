@@ -28,10 +28,6 @@ Use it only against your own networks and devices!
 Please check the legal regulations in your country before using it.
 We don't take any responsibility for what you do with this program.
 
-## Acknowledgements
-
-Huge thanks to [@spacehuhnTech](https://github.com/SpacehuhnTech) for keeping this project open source!
-
 ## Libraries used for this project
 * [esp8266-oled-ssd1306](https://github.com/ThingPulse/esp8266-oled-ssd1306)
 * [ArduinoJson](https://github.com/bblanchon/ArduinoJson)
